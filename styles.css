@@ -1,11 +1,24 @@
 div{
-	background: #d2d2d3;
 	border: 3px solid black;
 	text-align: center;
-
-	margin: 50px;
 	border-radius: 30px;
-	width: 400px;
+	background: #d2d2d3;
+	margin: 150px;
+	width: 300px;
+	padding: 50px;
 
 	
 }
+.box{
+	border: 3px solid black;
+	padding: 20px;
+	border-radius: 100%;
+	
+}
+
+
+
+
+
+
+
