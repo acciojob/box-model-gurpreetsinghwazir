@@ -9,9 +9,11 @@ div{
 
 	
 }
-.box{
-	border: 3px solid black;
-	padding: 20px;
+text{
+	
+	border: 1px solid nonme;
+	padding: 13%;
+	margin: 5px;
 	border-radius: 100%;
 	
 }
