@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+div{
+	background: #d2d2d3;
+	border: 3px solid black;
+	text-align: center;
+
+	margin: 50px;
+	border-radius: 30px;
+	width: 400px;
+
+	
+}
