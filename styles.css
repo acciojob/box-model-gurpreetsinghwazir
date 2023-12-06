@@ -1,19 +1,18 @@
-div{
+p{
 	border: 3px solid black;
 	text-align: center;
 	border-radius: 30px;
 	background: #d2d2d3;
 	margin: 150px;
 	width: 300px;
-	padding: 50px;
+	padding: 60px;
 
 	
 }
 text{
-	
-	border: 1px solid nonme;
-	padding: 13%;
-	margin: 5px;
+	border: 1px solid none;
+	padding: 15%;
+	margin: 4px;
 	border-radius: 100%;
 	
 }
